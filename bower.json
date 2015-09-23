@@ -1,0 +1,12 @@
+{
+  "name": "xignite-search",
+  "version": "0.0.1",
+  "description": "XigniteSearch API for autocomplete ticker search.",
+  "homepage": "https://github.com/VolosSoftware/xignite-search",
+  "main":[
+    "./xignite-search.min.js",
+    "./xignite-search.css"
+  ],
+  "_source": "git://github.com/VolosSoftware/xignite-search.git",
+  "_originalSource": "xignite-search"
+}
